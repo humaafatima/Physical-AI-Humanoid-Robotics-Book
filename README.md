@@ -192,3 +192,4 @@ This book builds on the work of the ROS, NVIDIA Isaac, and embodied AI communiti
 **Status**: 🚧 **In Development** - Target completion: Week 12
 
 **Get Started**: [Chapter 1: Introduction to Physical AI →](https://your-username.github.io/physical-ai-humanoid-robotics-book/docs/01-intro)
+<!-- Trigger deployment -->
