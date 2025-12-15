@@ -1,7 +1,7 @@
 # Physical AI & Humanoid Robotics: From Simulated Digital Twins to Conversational Embodied Agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Deploy Book](https://github.com/your-org/physical-ai-humanoid-robotics-book/actions/workflows/deploy-book.yml/badge.svg)](https://github.com/your-org/physical-ai-humanoid-robotics-book/actions/workflows/deploy-book.yml)
+[![Deploy Book](https://github.com/humaafatima/physical-ai-humanoid-robotics-book/actions/workflows/deploy-book.yml/badge.svg)](https://github.com/humaafatima/physical-ai-humanoid-robotics-book/actions/workflows/deploy-book.yml)
 
 > **An open-source book and 13-week capstone course** teaching students to design, simulate, and deploy conversational humanoid robots using ROS 2, NVIDIA Isaac Sim, and Vision-Language-Action models.
 
@@ -9,7 +9,7 @@
 
 This comprehensive guide (18,000-25,000 words, 14 chapters) bridges digital intelligence with physical embodiment, teaching you to build conversational humanoid robots from simulation through hardware deployment.
 
-**[🌐 Read the Book Online](https://your-username.github.io/physical-ai-humanoid-robotics-book/)** | **[📥 Download PDF](https://github.com/your-org/physical-ai-humanoid-robotics-book/releases/latest)**
+**[🌐 Read the Book Online](https://humaafatima.github.io/physical-ai-humanoid-robotics-book/)** | **[📥 Download PDF](https://github.com/humaafatima/physical-ai-humanoid-robotics-book/releases/latest)**
 
 ### What You'll Learn
 
