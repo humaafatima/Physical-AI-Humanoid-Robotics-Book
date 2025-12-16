@@ -12,7 +12,12 @@
       "Bash(mkdir:*)",
       "SlashCommand(/sp.tasks)",
       "Bash(pwsh -File:*)",
-      "Bash(bash:*)"
+      "Bash(bash:*)",
+      "Bash(curl:*)",
+      "Bash(echo:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
