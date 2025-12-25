@@ -18,6 +18,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'humaafatima', // Usually your GitHub org/user name.
   projectName: 'physical-ai-humanoid-robotics-book', // Usually your repo name.
+  
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
